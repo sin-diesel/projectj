@@ -1,0 +1,2 @@
+# projectj
+Git studying
